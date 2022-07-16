@@ -1,0 +1,43 @@
+body
+{
+    margin: 0 0 0 0;
+    background-image: url("bodyback.jpeg");
+    background-size: 15%;
+}
+#polskacow
+{
+    width: 352px;
+    height: 240px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+}
+#topwhite
+{
+    position: fixed;
+    font-size: 20px;
+    background-color: wheat;
+}
+#footnotes
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    line-height: 30px;
+}
+#persiat
+{
+    width: 352px; height: 240px; display: block; margin-left: auto; margin-right: auto;
+}
+#sammy
+{
+    width: 352px; height: 240px; display: block; margin-left: auto; margin-right: auto;
+}
+#bettercallsaul
+{
+    width: 352px; height: 240px; display: block; margin-left: auto; margin-right: auto;
+}
+#rat
+{
+    width: 352px; height: 240px; display: block; margin-left: auto; margin-right: auto;
+}
